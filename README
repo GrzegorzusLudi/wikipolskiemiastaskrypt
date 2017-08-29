@@ -1,0 +1,10 @@
+Co trzeba zrobić:
+
+--Pliki działające na Linuxie:
+
+skr.sh - skrypt bashowy, który wszystko uruchamia. Dane są wyrzucane na standardowe wyjście. Do jego uruchomienia potrzeba przeglądarki lynx, programu grep oraz pliku "miejscowosci.txt". Po wywołaniu należy skopiować dane z terminalu do pliku "sortowane.txt" (albo przerobić na kopiowanie do pliku).
+konw2 (wraz z nieskompilowanym kodem) - program który przerabia kod ze zgrepowanego outputu z lynxa (xd) na 
+
+w pliku "sortowane.txt" należy zamienić wszystkie przecinki na kropki, małe litery na wielkie
+
+historia - program tworzący mapy na podstawie danych
