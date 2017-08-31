@@ -1,0 +1,12 @@
+Map is here: https://www.reddit.com/r/Polska/comments/6wbh6n/zrobi%C5%82em_gifa_pokazuj%C4%85cego_w_kt%C3%B3rym_wieku/
+
+-Files working on Linux:
+
+
+
+skr.sh - bash script which startseverything. The data is put on the standard output. To execute you need lynx browser, grep and "miejscowosci.txt" file (miejscowości=localities). Then copy data from terminal to file named "sortowane.txt" (or just change the script to save it to file).
+konw2 (with uncompiled source) - a program which changes grepped data into records
+
+in file "sortowane.txt" you need to replace commas into full stops and all letters to uppercase
+
+historia - program which makes mapps from file "sortowane.txt"
